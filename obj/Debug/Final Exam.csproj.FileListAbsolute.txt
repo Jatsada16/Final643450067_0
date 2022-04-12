@@ -1,0 +1,11 @@
+D:\project\Final Exam\bin\Debug\Final Exam.exe.config
+D:\project\Final Exam\bin\Debug\Final Exam.exe
+D:\project\Final Exam\bin\Debug\Final Exam.pdb
+D:\project\Final Exam\obj\Debug\Final Exam.csproj.AssemblyReference.cache
+D:\project\Final Exam\obj\Debug\Final Exam.csproj.SuggestedBindingRedirects.cache
+D:\project\Final Exam\obj\Debug\Final_Exam.Form1.resources
+D:\project\Final Exam\obj\Debug\Final_Exam.Properties.Resources.resources
+D:\project\Final Exam\obj\Debug\Final Exam.csproj.GenerateResource.cache
+D:\project\Final Exam\obj\Debug\Final Exam.csproj.CoreCompileInputs.cache
+D:\project\Final Exam\obj\Debug\Final Exam.exe
+D:\project\Final Exam\obj\Debug\Final Exam.pdb
